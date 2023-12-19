@@ -1,0 +1,1021 @@
+fileFormatVersion: 2
+guid: 513f380ec090c4b48bbb3ac9efc30577
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Annunciator
+    second: {fileID: 2100000, guid: 8f1531de2d1b55341a0373d5fcdcf0d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Beige
+    second: {fileID: 2100000, guid: 5d90f8bad935c7241854c3f2898f302b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Beige Shade 3
+    second: {fileID: 2100000, guid: efbba08934af40741b5b242ca3a20261, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Beige Shade 4
+    second: {fileID: 2100000, guid: e69ff5e43c5915349b560b670be4d8ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black
+    second: {fileID: 2100000, guid: dad575a73b937bc4a93667ebb51cc2b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black Board Trim
+    second: {fileID: 2100000, guid: d506025826463b14abff4b1071efdebc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blakish Gray Cabinets
+    second: {fileID: 2100000, guid: 9630b61f7387dda4585a794a589a349d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bleed
+    second: {fileID: 2100000, guid: 60b2e9f85fa55864b9298cd0eef04cef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue
+    second: {fileID: 2100000, guid: a05e0b547daead0479d2de9ab0f160fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue Cabinet
+    second: {fileID: 2100000, guid: c732e3b4de645574bb81060de935c6d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue Light
+    second: {fileID: 2100000, guid: be404b1fe0d5e674c894958f1a395848, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue Trim
+    second: {fileID: 2100000, guid: 896719bbad703bf4ebb2cd4389ad10f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blueish Gray
+    second: {fileID: 2100000, guid: a5d73b2d17d6f49459d83bb29030bfc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Board Trim
+    second: {fileID: 2100000, guid: a4b97baf2a0c3f74f89050a5d0c9391f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bright Beige
+    second: {fileID: 2100000, guid: 47ac214e4209b8f43a6a28205c711094, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bright Green Light
+    second: {fileID: 2100000, guid: 8bf8abcbdcc842c4b9450993f74bb304, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brown
+    second: {fileID: 2100000, guid: bf78f79a4e55a124a8d5182134b1ed84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brownish Beige
+    second: {fileID: 2100000, guid: 3e85df2bad60d604a8bc6685a06d5461, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Buttons
+    second: {fileID: 2100000, guid: fbf00ebb0da144c4ea6bfd247b991626, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CRT Screen
+    second: {fileID: 2100000, guid: 66431bdefd540ef44847119dea385dc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cabinets
+    second: {fileID: 2100000, guid: 4797ee26b9a12e048be90a29103be76b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet
+    second: {fileID: 2100000, guid: 53f0f40094524e04e8c74b8eaf3c4e44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cayan Plastic
+    second: {fileID: 2100000, guid: 8fda2b61b8c8e024a8254c8b12e5bf1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ceiling Light Frame Metal
+    second: {fileID: 2100000, guid: 8b670bb15898b004e9a88c14dc4f62ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ceiling Tile
+    second: {fileID: 2100000, guid: 23714a3410b041d4abc473a3ff1ca56c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ceiling Tiles
+    second: {fileID: 2100000, guid: 6adbc7ac7920ec6409de9909883039be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Circular Gauge 1
+    second: {fileID: 2100000, guid: 839bff7198c901142b4d7019798d4d4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cleanup
+    second: {fileID: 2100000, guid: 4314f6707a277bc45b48a32a99b1984e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Computer Monitor Plastic
+    second: {fileID: 2100000, guid: d729b7c75cf56bf43878a40584c4cd12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Computer Monitor Screen
+    second: {fileID: 2100000, guid: 222cdd9d5d4dd8244b5ecc4ddd835c8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Computer Wires
+    second: {fileID: 2100000, guid: 2c8b922dbbd39fe4c8e28b5b2def450a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Coolant Tank B
+    second: {fileID: 2100000, guid: e3e18d4698693374d8e7649154b04929, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Copper
+    second: {fileID: 2100000, guid: d7ccc2434aabebb40bc7790a9b82b941, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark Black
+    second: {fileID: 2100000, guid: 8f5dde8b5fd1ddc46bd1e728c0f8382e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark Blue
+    second: {fileID: 2100000, guid: 50f005b0f1bf16c428d8e7b6d6ec6510, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark Blue Label
+    second: {fileID: 2100000, guid: bcc7d096a348c3e4e9cd1261e4adea30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark Blue Light
+    second: {fileID: 2100000, guid: bba27e7e09acfd746b6c51f93f5efbf7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark Blue Plastic
+    second: {fileID: 2100000, guid: cc5f25dc4d15fc24ebf6a9d6b4c94d9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark Gray
+    second: {fileID: 2100000, guid: 85e6ce054345e7f4495aa106caa55357, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark Green Unlit
+    second: {fileID: 2100000, guid: 553d12e91e7f6b9429af2d85b6db842b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark Pink Plastic
+    second: {fileID: 2100000, guid: 3a6e7eb6b6ead134cb94109ecca1d964, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark Red
+    second: {fileID: 2100000, guid: 2e6242c8fd9e426428b17b3af3c5a3ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark Red Light Lit
+    second: {fileID: 2100000, guid: b8b60c84b6274bf4ba08ef266764ca9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark Red Unlit
+    second: {fileID: 2100000, guid: 5a7162fd1ac942849b43698eacfcb215, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark Teal
+    second: {fileID: 2100000, guid: c712a3d8977567d448a79b9e5fbb6baa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark White
+    second: {fileID: 2100000, guid: 044d4424b5dfeca4fbbcdbeb46b6ebf8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Darker Beige
+    second: {fileID: 2100000, guid: c11d221e07fc79045a3488cde04f65b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Darker Beige.2
+    second: {fileID: 2100000, guid: 33310c6f33eda3b41adb5f23e852579f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Darker Blue
+    second: {fileID: 2100000, guid: dd2a64e1a3f004c45a7410b8ee911ac5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Darker Gray
+    second: {fileID: 2100000, guid: b39f04abc7ce4ae469a7f1f4b5bfcea2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Darker Teal
+    second: {fileID: 2100000, guid: c1cb1bb7a2d2c2049b520ce254aee253, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Diffuse Beige
+    second: {fileID: 2100000, guid: 2cb11b7f23f990a418c3df38171d7beb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Digital Gauge
+    second: {fileID: 2100000, guid: d0a3e0a4fbbb02b41853eef08de2a93c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Digital Gauge Black
+    second: {fileID: 2100000, guid: 75720c75d789cc34f8f9c777509b44b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dim Blue Light
+    second: {fileID: 2100000, guid: 8c1f016f4f9e71448ae1232281467d8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Disk Gauge
+    second: {fileID: 2100000, guid: 92acaa34b9c84ba4d94e9182673a01dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door Window Glass
+    second: {fileID: 2100000, guid: 88d1bc7c019d3a04a952bf307a2a0fd4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dull Red Light
+    second: {fileID: 2100000, guid: 4e109ae1b0466794cbd140bccde3515c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eggshell White
+    second: {fileID: 2100000, guid: cf23d44a6dd6ee84b81574aee1f82a56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eight
+    second: {fileID: 2100000, guid: 0de0491dca343854eb07ef232b4c8c19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Electric Box Metal
+    second: {fileID: 2100000, guid: 9fb35f32d2132fc46924133e1393783a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Electric Cable Couplings
+    second: {fileID: 2100000, guid: df10975c0cc0e88498a68066b34ac6ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Electric Cables
+    second: {fileID: 2100000, guid: 3268f1630d6324644b86c847e060e66d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Feed
+    second: {fileID: 2100000, guid: 0059baa86f4ec1449a97ab4f1d9a624b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fire Extinguisher Gray
+    second: {fileID: 2100000, guid: a8258a5bb7c1e314cbe9dc77720d763c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fire Extinguisher Red
+    second: {fileID: 2100000, guid: d309e8ce48b9b074386e3bb24c6cb49a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Five
+    second: {fileID: 2100000, guid: 8fe6a0e52855e9b46b7765089594bef3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Four
+    second: {fileID: 2100000, guid: 5b488464985c7354981e8934e11b58fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glossy Black
+    second: {fileID: 2100000, guid: d247bdf7c67154045a97fd0b0a7a06e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glossy Dark Red
+    second: {fileID: 2100000, guid: 5963c17f7a3e208419cc510889bd008f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glossy Red
+    second: {fileID: 2100000, guid: 8e4344fc552294445a6aaca1565494b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gold
+    second: {fileID: 2100000, guid: 9d928a4c3fc67bd4ca1a079fdece125d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grating
+    second: {fileID: 2100000, guid: 54caab3adbbd20e469f159b1e5b9ec7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gray
+    second: {fileID: 2100000, guid: b1703e4ce7d355f40a9091d666485085, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gray Shade
+    second: {fileID: 2100000, guid: a544f2069a97b864e8ea8a06fc4a0777, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grayish
+    second: {fileID: 2100000, guid: 1e3d8d721fb921745aefaf2b96e83170, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grayish-Black
+    second: {fileID: 2100000, guid: 14c942ecd9d695a4bbc77497befedad2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Green Light
+    second: {fileID: 2100000, guid: 10aa6e3e2bbc94e4799924a10fb17475, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Green Unlit
+    second: {fileID: 2100000, guid: 7e1d5eab64d2a294a9bffa1836bcc205, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Greenish-Gray
+    second: {fileID: 2100000, guid: 1cdbb3e5f031b18489d3bafb4dcb52b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Horizontal Gauge
+    second: {fileID: 2100000, guid: fb4902fa1f5f51f4f8ac0e550003a260, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Horizontal Gauge 1
+    second: {fileID: 2100000, guid: 9f64d9188efd7604fa4e9862074f78e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Horizontal Gauge 2
+    second: {fileID: 2100000, guid: 07bbc9c4002fe864aafb34eb0cab8c63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Horizontal Numbers
+    second: {fileID: 2100000, guid: 827a353c56cf69d49becccad22127d16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hot Pink
+    second: {fileID: 2100000, guid: ae79af173c1dc1c4c9f04d6d30b8d76d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keyboard Plastic
+    second: {fileID: 2100000, guid: 734207a190bf3ca4eaa74d9dca7bedc3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keyhole
+    second: {fileID: 2100000, guid: 5c017e290c00c0542aea0a85c3627e07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keyholes
+    second: {fileID: 2100000, guid: 3dad0c3e2149d6a4db6f321f18d3ef2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LCD screen
+    second: {fileID: 2100000, guid: 3934d22f5a1e7154db0186751464b5e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Label 2
+    second: {fileID: 2100000, guid: 388ea7eb1ccc41c4197c8380ebff4a2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light
+    second: {fileID: 2100000, guid: 08c95960c6d0ff247bcbe5bce6a6f96d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light Beige
+    second: {fileID: 2100000, guid: 9f267ded0002190468221092a1fa1fa3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light Blue Lit
+    second: {fileID: 2100000, guid: 92ee6fc006d2488459946ef2ad5b8105, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light Blue Unlit
+    second: {fileID: 2100000, guid: 1b183b1c23fecdd4887a353bb0ecff57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lime Green
+    second: {fileID: 2100000, guid: b935b8eaf87e86e41abdabf48512d542, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lime Green Plastic
+    second: {fileID: 2100000, guid: f209ed3e169eeba419c7a689d0f92e32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Liquid Waste Disposal System
+    second: {fileID: 2100000, guid: c0f6abfa69691d541b71c737a5d1c395, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal
+    second: {fileID: 2100000, guid: 9d5195eb565d92e44b9c782619f375f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal Trim
+    second: {fileID: 2100000, guid: 127fd040181032a4087713103d9954c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metallic Gray
+    second: {fileID: 2100000, guid: 680c16b306a044547a10b6fea5c1ecf7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metallic Red
+    second: {fileID: 2100000, guid: 14231a6dfcc2b5342a92cf0859ab6e05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mouse Bottom Plastic
+    second: {fileID: 2100000, guid: 043774946a50fce4080ba817da1d700c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mouse Plastic
+    second: {fileID: 2100000, guid: aa83cf77e28640e4e93f3ae007145308, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mouse Wheel
+    second: {fileID: 2100000, guid: b4760dfb0f4f8b24c8e0001414a49192, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mousepad Texture
+    second: {fileID: 2100000, guid: b015e3d912fde7a41b5b5b21d74743da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nuclear Papers
+    second: {fileID: 2100000, guid: 17157a32fc249d34580ab28cdeb7da3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Number Lights
+    second: {fileID: 2100000, guid: cb76e7ce6c10e904f9ae1643937731e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Off Light Blue
+    second: {fileID: 2100000, guid: 6751f6cac7509254f9a1eba835c1cd00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Off-Beige
+    second: {fileID: 2100000, guid: 6c7dbbf533411004db0a58e05888a3ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Off-Gray
+    second: {fileID: 2100000, guid: cdbedecdb5888274e9ad27e486999afa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Off-Green 1
+    second: {fileID: 2100000, guid: 59ee506f0a2e1914db8df32efc1165c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Off-Green 2
+    second: {fileID: 2100000, guid: fde89656e7e78be4895884aa3a4be41e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Off-Red
+    second: {fileID: 2100000, guid: 11e6762f20c0b844a9d5ea0f25c00d03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: One
+    second: {fileID: 2100000, guid: ba40e22d142ce4542a6cc4f4d849c828, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: One Hundred Texture
+    second: {fileID: 2100000, guid: d68652092a85d2247868d3a79b6660ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Orange Light
+    second: {fileID: 2100000, guid: 8c5a879fbe4c91345961eadd6d223d8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Orange Light Lit
+    second: {fileID: 2100000, guid: 9fe3d4e145f472547bbe3cb36d857df0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Orange Light Unlit
+    second: {fileID: 2100000, guid: af4f3379f8295004ba6e328fd021c210, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Overhead Light
+    second: {fileID: 2100000, guid: b34f64f9c368d6d46804c53f09db8aa8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PCL
+    second: {fileID: 2100000, guid: 7e640309bf978054c98fd85ca7acdc7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Papers
+    second: {fileID: 2100000, guid: a82d8c3e9faa66a42891c42b8e1f08b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Percent X10 Texture
+    second: {fileID: 2100000, guid: 1d8f2aeeffd0b29468096d89beea9fb0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pink Light Lit
+    second: {fileID: 2100000, guid: 40fd7486eaea4f844877bf552084f25d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pink Light Unlit
+    second: {fileID: 2100000, guid: 3c25584c016f6ef4ea3a3a9ba263337d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pink Unlit
+    second: {fileID: 2100000, guid: d5d51ee99b83cf141bce21686bc78813, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic LCD Chassis
+    second: {fileID: 2100000, guid: 22ea3346ddfd29940b504a50abc074d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pump Release
+    second: {fileID: 2100000, guid: 4538aefa256f85647b949a9504f0721c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Purple
+    second: {fileID: 2100000, guid: d564bb85a555b0245a90459a13cf1228, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Purplish-Pink
+    second: {fileID: 2100000, guid: 68671f15787a066478c42d06be415a4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Recycling Bin Black
+    second: {fileID: 2100000, guid: 3b8ba11239c738b47b3509cbf336fbdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Recycling Bin Logo
+    second: {fileID: 2100000, guid: d4fad66e7ba9f8846884ad83762e1678, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Recycling Bin Metal
+    second: {fileID: 2100000, guid: 6249c9c9e1f04044b8323519813180fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red
+    second: {fileID: 2100000, guid: 507f63a4a2f7c7c43b121a4aa443b39c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red Light Dim
+    second: {fileID: 2100000, guid: a5b2d8c17791ed8408f4b0d69819f8ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red Light Lit
+    second: {fileID: 2100000, guid: 14189fb5a62603f4e93b4f768c5e3f2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red Light Lit 2
+    second: {fileID: 2100000, guid: 5ca780b925f7dbd4b8d94ea2de297698, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red Plastic
+    second: {fileID: 2100000, guid: c3ad2e0691b100849b10c329ba64460f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Seven
+    second: {fileID: 2100000, guid: 239e9c29ab08ee1418d45135ea80c507, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shiny Glossy Metal
+    second: {fileID: 2100000, guid: 66021bd26db6a5042bc9f9844b9d6288, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Six
+    second: {fileID: 2100000, guid: 17041faad1435ee4b8025d75b6d94dbb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Small LCD screens
+    second: {fileID: 2100000, guid: 41713d2d7d26ae9449db2090c2e32333, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Speaker
+    second: {fileID: 2100000, guid: a64a239be0fab58439895d9559da84b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Speaker Fabric
+    second: {fileID: 2100000, guid: 2b8a8606783f79b4e8d5e5eebc7a5801, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Specular White
+    second: {fileID: 2100000, guid: 37ff5ab2977dc1647a0a7ffa6ac44835, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Teal
+    second: {fileID: 2100000, guid: 7d0f2649347ed814a9414a1a403ccced, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Teal Light
+    second: {fileID: 2100000, guid: 02710fc6d8605f944891445eabfa580f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Teal Shade Cabinet
+    second: {fileID: 2100000, guid: 8827e5b421357904dbca2f13d7b1ee45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Telephone Black
+    second: {fileID: 2100000, guid: 1acdb69d6441e1f409d508f1d5d0acde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Telephone Buttons
+    second: {fileID: 2100000, guid: 589d3251b9dd31744a7e79565e45432a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Telephone Color Beige
+    second: {fileID: 2100000, guid: 9cdbf28270dcae146ba2ff8a3de3cf02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Telephone Color Gray
+    second: {fileID: 2100000, guid: 907fcc44b9fd2cc4c8294c48eaa95a28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Telephone Cord
+    second: {fileID: 2100000, guid: abc342bb8a5782641877c3720ca40883, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Telephone White
+    second: {fileID: 2100000, guid: 5d6ae40e42db4b447b17b4f99063efcb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Three
+    second: {fileID: 2100000, guid: 0697797ad37154d459d363d36d91a3da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Two
+    second: {fileID: 2100000, guid: bf03082ef5bb3074c9a1f1a342879541, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Unlit Dark Red Light
+    second: {fileID: 2100000, guid: e7e9079feeb2b694c9a9d76e1b132cba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Unlit Dark Yellow Light
+    second: {fileID: 2100000, guid: 9292a8758ca8e124a8eebafdaf87ea82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vanta Black
+    second: {fileID: 2100000, guid: 703a1f54ee05a784288e62b2a42dcaac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vertical Gauge
+    second: {fileID: 2100000, guid: 46fd5cd60052b704595848242c3205a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vertical Gauge 2
+    second: {fileID: 2100000, guid: e1fda35e5ff2dc64e8d983b1ec52216e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vertical Gauge Black
+    second: {fileID: 2100000, guid: 4d3a70b85b6b83b41ae68e19ae11b81c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vertical Graph
+    second: {fileID: 2100000, guid: 42709ff185208df40997f25e8aa5c53a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vertical Numbers
+    second: {fileID: 2100000, guid: ea756e107544dbe4696aa0ecf2a9b317, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Very Dark Blue
+    second: {fileID: 2100000, guid: 803cdd8692720344b95d5f6258737206, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Very Dark Gray
+    second: {fileID: 2100000, guid: d3c12246a84b7684ca54736b2e1331a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Very Dark Red
+    second: {fileID: 2100000, guid: 41bc98a2f2d17cd4992bfa704b10eed2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Very Dull Red
+    second: {fileID: 2100000, guid: f6a1fd952643b5a46b5b2aad1f7bdc7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Voltage Meter
+    second: {fileID: 2100000, guid: 39a9ca6b953a98a4288a050daad50ad9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall
+    second: {fileID: 2100000, guid: 328e4da0b05fee84e93706a193464fe8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall Board
+    second: {fileID: 2100000, guid: 15da5600610f4544586ea8dca3e46c44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Whiet Trim
+    second: {fileID: 2100000, guid: decda0bf71c978242a8e53f0dfe3083a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White
+    second: {fileID: 2100000, guid: 979ba67d0033b5d49a86497ffecf9e2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White Light 2
+    second: {fileID: 2100000, guid: 3ac8c254142b783498f7bad5c7d6d751, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White Light Unlit
+    second: {fileID: 2100000, guid: 7e8d85bb9c498fa4a8743c5d05bb7966, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White Plastic
+    second: {fileID: 2100000, guid: fe695aacda644024d929c4243e2609f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White Shade 2
+    second: {fileID: 2100000, guid: 8710883b871d27b4091e30ef7fb609d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Whitish Gray
+    second: {fileID: 2100000, guid: 2d8c4cc24cc7502438169fd288ac92a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yellow
+    second: {fileID: 2100000, guid: 4abf8e52bfa8a1d44a5700fb8d7e720e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yellow Cabinet
+    second: {fileID: 2100000, guid: b0a5b9a696fd8644d9bf1efbce444982, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yellow Lit
+    second: {fileID: 2100000, guid: cc5709d7b07b5f0409d902a7988d3ba4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yellow Trim
+    second: {fileID: 2100000, guid: 3dc8f4019debdaa47b3a1cc27251f632, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yellowish-Green
+    second: {fileID: 2100000, guid: ffade30fd5a61ef4ea2f69a5df2a014e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Zero
+    second: {fileID: 2100000, guid: 15bcfd4e69bf53f439d718e93d2d1fdb, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
