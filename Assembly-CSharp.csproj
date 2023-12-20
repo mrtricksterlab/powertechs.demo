@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{27E60CE8-04A3-986C-C51C-72EE934D6D42}</ProjectGuid>
+    <ProjectGuid>{A489E129-2D83-4454-C19F-3729F5CD28A9}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -22,7 +22,7 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>Temp\Bin\Debug\</OutputPath>
-    <DefineConstants>UNITY_2021_3_21;UNITY_2021_3;UNITY_2021;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;UNITY_INCLUDE_TESTS;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_UNET;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_ENGINE_CODE_STRIPPING;ENABLE_MANAGED_UNITYTLS;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;PLATFORM_WEBGL;TEXTCORE_1_0_OR_NEWER;UNITY_WEBGL;UNITY_WEBGL_API;UNITY_DISABLE_WEB_VERIFICATION;UNITY_GFX_USE_PLATFORM_VSYNC;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_SPATIALTRACKING;ENABLE_MONO;NET_STANDARD_2_0;NET_STANDARD;NET_STANDARD_2_1;NETSTANDARD;NETSTANDARD2_1;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_LEGACY_INPUT_MANAGER;TEXTCORE_FONT_ENGINE_1_5_OR_NEWER;UNITY_POST_PROCESSING_STACK_V2;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
+    <DefineConstants>UNITY_2021_3_21;UNITY_2021_3;UNITY_2021;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;PLATFORM_STANDALONE;TEXTCORE_1_0_OR_NEWER;PLATFORM_STANDALONE_WIN;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_NVIDIA;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;GFXDEVICE_WAITFOREVENT_MESSAGEPUMP;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_STANDARD_2_0;NET_STANDARD;NET_STANDARD_2_1;NETSTANDARD;NETSTANDARD2_1;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_LEGACY_INPUT_MANAGER;TEXTCORE_FONT_ENGINE_1_5_OR_NEWER;UNITY_POST_PROCESSING_STACK_V2;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <NoWarn>0169</NoWarn>
@@ -49,65 +49,66 @@
     <UnityProjectGenerator>Package</UnityProjectGenerator>
     <UnityProjectGeneratorVersion>2.0.17</UnityProjectGeneratorVersion>
     <UnityProjectType>Game:1</UnityProjectType>
-    <UnityBuildTarget>WebGL:20</UnityBuildTarget>
+    <UnityBuildTarget>StandaloneWindows64:19</UnityBuildTarget>
     <UnityVersion>2021.3.21f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\PullCord\Exploding Items\ExplodingItemController.cs" />
+    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\Turntable\TurntableVisuals.cs" />
+    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\Paint\RectToroid.cs" />
+    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\PoseShowcaseManager.cs" />
+    <Compile Include="Assets\Scripts\CameraController.cs" />
+    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\TransformTranslationHandle.cs" />
+    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\TransformTool.cs" />
+    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\ScaleOnEnable.cs" />
+    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\SwapGraspExample.cs" />
+    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\SimpleScaleUtil.cs" />
+    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\ProjectionPostProcessProvider.cs" />
+    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\SimpleInteractionEmission.cs" />
+    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\PullCord\PullCord.cs" />
+    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\PullCord\PullCordVisuals.cs" />
+    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\PullCord\LineBetweenTransforms.cs" />
+    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\Paint\PinchStrokeProcessor.cs" />
     <Compile Include="Assets\FastIK\Scripts\Sample\SampleProcedualAnimation.cs" />
+    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\PoseDetectorUIText.cs" />
     <Compile Include="Assets\FastIK\Scripts\FastIK\FastIKCCD.cs" />
+    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\Turntable\Turntable.cs" />
+    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\WorkstationBehaviourExample.cs" />
+    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\SimpleRendererUtil.cs" />
+    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\Paint\PaintCursor.cs" />
     <Compile Include="Assets\Scripts\MainController.cs" />
+    <Compile Include="Assets\Scripts\ShaderScreen.cs" />
+    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\EditorURL.cs" />
+    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\CycleHandPairs.cs" />
+    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\SimpleAnchorFeedback.cs" />
+    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\TransformRotationHandle.cs" />
+    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\PullCord\PullCordHandle.cs" />
+    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\InertiaPostProcessProvider.cs" />
+    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\SimpleInteractionGlow.cs" />
     <Compile Include="Assets\Scripts\Scene02\Scene02Controller.cs" />
+    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\Paint\ThickRibbonRenderer.cs" />
+    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\Paint\StrokeProcessor.cs" />
     <Compile Include="Assets\Scripts\LookAtTarget.cs" />
     <Compile Include="Assets\Scripts\Scene00\SceneController00.cs" />
     <Compile Include="Assets\Scripts\BodyController.cs" />
     <Compile Include="Assets\Scripts\Scene01\Scene01Controller.cs" />
+    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\SimpleMatchAnchorScaleAndState.cs" />
+    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\SpawnObjectAtPosition.cs" />
+    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\TransformHandle.cs" />
     <Compile Include="Assets\FastIK\Scripts\FastIK\FastIKFabric.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
     <Compile Include="Assets\FastIK\Scripts\FastIK\FastIKLook.cs" />
-    <Compile Include="Assets\FastIK\Scripts\Sample\SampleRotator.cs" />
-    <Compile Include="Assets\FastIK\Scripts\Sample\SampleSinMover.cs" />
-    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\SimpleInteractionGlow.cs" />
-    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\GettingStartedExampleManager.cs" />
-    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\InertiaPostProcessProvider.cs" />
-    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\Paint\StrokeProcessor.cs" />
-    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\Turntable\Turntable.cs" />
-    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\EditorURL.cs" />
-    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\TransformHandle.cs" />
-    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\ScaleOnEnable.cs" />
-    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\CycleHandPairs.cs" />
-    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\PullCord\Exploding Items\ExplodingItemController.cs" />
-    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\PoseDetectorUIText.cs" />
-    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\TransformRotationHandle.cs" />
-    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\SimpleInteractionEmission.cs" />
-    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\WorkstationBehaviourExample.cs" />
-    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\SimpleTransformUtil.cs" />
-    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\PullCord\Exploding Items\ExplodingItem.cs" />
-    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\SimpleRendererUtil.cs" />
-    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\MovePoseExample.cs" />
-    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\SimpleMatchAnchorScaleAndState.cs" />
-    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\PullCord\PullCord.cs" />
-    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\TransformTranslationHandle.cs" />
-    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\SimpleAnchorFeedback.cs" />
     <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\PoseRecorderExampleManager.cs" />
-    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\PullCord\LineBetweenTransforms.cs" />
-    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\SwapGraspExample.cs" />
-    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\ProjectionPostProcessProvider.cs" />
-    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\Paint\ThickRibbonRenderer.cs" />
-    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\Paint\PaintCursor.cs" />
-    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\Paint\RectToroid.cs" />
-    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\PullCord\PullCordHandle.cs" />
-    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\SimpleScaleUtil.cs" />
-    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\TransformTool.cs" />
+    <Compile Include="Assets\FastIK\Scripts\Sample\SampleRotator.cs" />
     <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\SimpleGrabBallFeedback.cs" />
-    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\Paint\PinchStrokeProcessor.cs" />
-    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\PullCord\PullCordVisuals.cs" />
-    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\SpawnObjectAtPosition.cs" />
-    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\Turntable\TurntableVisuals.cs" />
-    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\PoseShowcaseManager.cs" />
-    <Compile Include="Assets\Scripts\ShaderScreen.cs" />
+    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\SimpleTransformUtil.cs" />
+    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\GettingStartedExampleManager.cs" />
+    <Compile Include="Assets\FastIK\Scripts\Sample\SampleSinMover.cs" />
+    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\PullCord\Exploding Items\ExplodingItem.cs" />
+    <Compile Include="Assets\ThirdParty\Ultraleap\Tracking\Examples\Example Assets\Scripts\MovePoseExample.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
@@ -145,6 +146,9 @@
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.21f1\Editor\Data\Managed\UnityEngine\UnityEngine.AIModule.dll</HintPath>
     </Reference>
+    <Reference Include="UnityEngine.ARModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.21f1\Editor\Data\Managed\UnityEngine\UnityEngine.ARModule.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEngine.AccessibilityModule">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.21f1\Editor\Data\Managed\UnityEngine\UnityEngine.AccessibilityModule.dll</HintPath>
     </Reference>
@@ -162,6 +166,12 @@
     </Reference>
     <Reference Include="UnityEngine.ClothModule">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.21f1\Editor\Data\Managed\UnityEngine\UnityEngine.ClothModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ClusterInputModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.21f1\Editor\Data\Managed\UnityEngine\UnityEngine.ClusterInputModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ClusterRendererModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.21f1\Editor\Data\Managed\UnityEngine\UnityEngine.ClusterRendererModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.CoreModule">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.21f1\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll</HintPath>
@@ -322,8 +332,8 @@
     <Reference Include="UnityEngine.VideoModule">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.21f1\Editor\Data\Managed\UnityEngine\UnityEngine.VideoModule.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEngine.WebGLModule">
-      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.21f1\Editor\Data\PlaybackEngines\WebGLSupport\Managed\UnityEngine.WebGLModule.dll</HintPath>
+    <Reference Include="UnityEngine.VirtualTexturingModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.21f1\Editor\Data\Managed\UnityEngine\UnityEngine.VirtualTexturingModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.WindModule">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.21f1\Editor\Data\Managed\UnityEngine\UnityEngine.WindModule.dll</HintPath>
@@ -781,324 +791,324 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{7A4FF338-1A12-9EC1-1C1C-3B6A68B5DE40}</Project>
+      <Project>{645B3CD6-D2EA-BCC8-E33D-515BB1639827}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Recorder.Editor.csproj">
-      <Project>{4A7E01A8-6F4C-FE26-D0CE-290013250E30}</Project>
+      <Project>{7E5268E7-8FD7-7065-A347-63ADBB38FA4D}</Project>
       <Name>Unity.Recorder.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Purchasing.Common.csproj">
-      <Project>{01816DE2-3C11-1370-E34B-6D01C85E631E}</Project>
+      <Project>{A00B75F7-AF78-B83F-CB42-23C987E1F9D8}</Project>
       <Name>Purchasing.Common</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.VSCode.Editor.csproj">
-      <Project>{CD285BED-89E1-61C0-7BF7-868C0AEEBFE0}</Project>
+      <Project>{CEADC787-3B0E-EBD8-D80A-22E13201D23F}</Project>
       <Name>Unity.VSCode.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.RenderPipelines.Universal.Shaders.csproj">
-      <Project>{9AD80494-A2A2-CB08-C961-939C8A36ECF6}</Project>
+      <Project>{C8091C6C-E445-C59D-3CE2-31D0733EC06E}</Project>
       <Name>Unity.RenderPipelines.Universal.Shaders</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.Purchasing.csproj">
-      <Project>{A123B5CD-B64B-0B23-2E95-2AFA4E1E544E}</Project>
+      <Project>{0A508980-DF96-B937-588C-6D7B3F65DC77}</Project>
       <Name>UnityEngine.Purchasing</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.TextMeshPro.Editor.csproj">
-      <Project>{59EE415C-544B-CF1E-0484-C30C2F93BF08}</Project>
+      <Project>{93C6FBAA-FE28-B6A4-68B3-5A9DA38D8990}</Project>
       <Name>Unity.TextMeshPro.Editor</Name>
     </ProjectReference>
+    <ProjectReference Include="Ultraleap.Tracking.Hands.csproj">
+      <Project>{1F83205D-2941-86C0-75E0-D3256FFE3D25}</Project>
+      <Name>Ultraleap.Tracking.Hands</Name>
+    </ProjectReference>
     <ProjectReference Include="Unity.Formats.Fbx.Editor.csproj">
-      <Project>{A200D4D8-C9A4-C96A-A218-B5D3DBF8C4A7}</Project>
+      <Project>{21B0B26F-31DA-2529-FAC6-8AD4512C7E23}</Project>
       <Name>Unity.Formats.Fbx.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.VisualScripting.State.Editor.csproj">
-      <Project>{1EE7FF1F-E48F-F623-6138-D5D87CB08D7F}</Project>
+      <Project>{3024732A-36F9-314D-A106-64CAB2D00553}</Project>
       <Name>Unity.VisualScripting.State.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.Purchasing.SecurityStub.csproj">
-      <Project>{3D7B3B18-B322-B240-66B0-84857CFFC493}</Project>
+      <Project>{282EBD0B-ADF6-546C-9A10-D9994F3A0136}</Project>
       <Name>UnityEngine.Purchasing.SecurityStub</Name>
     </ProjectReference>
     <ProjectReference Include="soupday.cc3_unity_tools.runtime.csproj">
-      <Project>{ECFE58F1-6D2F-9A60-2066-B90C18031468}</Project>
+      <Project>{0B872C4F-15DA-017D-F6E9-B48863266B1E}</Project>
       <Name>soupday.cc3_unity_tools.runtime</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Searcher.Editor.csproj">
-      <Project>{BFB9355E-8F09-A165-D022-441CC845BDEC}</Project>
+      <Project>{0BF67B8B-0957-0304-6066-62AA9F3ACBDC}</Project>
       <Name>Unity.Searcher.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.VisualScripting.SettingsProvider.Editor.csproj">
-      <Project>{C9063282-B868-931D-854E-41D128D44481}</Project>
+      <Project>{4B3DB1EE-C2EF-2D8F-45E3-DC7F26C084E5}</Project>
       <Name>Unity.VisualScripting.SettingsProvider.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.UI.csproj">
-      <Project>{56C0ECA5-EAE8-1A20-68C8-A891BF1A4D31}</Project>
+      <Project>{00858219-25EA-F8A4-88BD-CBD0C9D98F28}</Project>
       <Name>UnityEditor.UI</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Rider.Editor.csproj">
-      <Project>{352A57DD-5234-0B14-73BA-286ACE152A1C}</Project>
+      <Project>{564CB49E-FDBF-6640-432F-AB665B9EADE1}</Project>
       <Name>Unity.Rider.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.RenderPipelines.Core.ShaderLibrary.csproj">
-      <Project>{BEBB90F5-CD47-2E9D-9102-4D3B7BD16D78}</Project>
+      <Project>{4252D196-DD6A-3D8E-F13A-B9CB3D7D022D}</Project>
       <Name>Unity.RenderPipelines.Core.ShaderLibrary</Name>
     </ProjectReference>
     <ProjectReference Include="Analytics.csproj">
-      <Project>{68B502F4-7F81-343B-8D04-28D5343BD328}</Project>
+      <Project>{0372C062-B8A8-3ACE-6862-CABD213BDAE1}</Project>
       <Name>Analytics</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.SpatialTracking.csproj">
-      <Project>{C1D16799-3BEE-7726-D6CE-2DC35E5E9940}</Project>
+      <Project>{FC1A4213-D7DA-B02F-1A68-B186CD0CB8FC}</Project>
       <Name>UnityEngine.SpatialTracking</Name>
     </ProjectReference>
     <ProjectReference Include="Autodesk.Fbx.csproj">
-      <Project>{D22579DA-135F-CE1E-61EC-7961C0E97D71}</Project>
+      <Project>{36AB4568-FDD2-2B37-244A-4AB59A64E912}</Project>
       <Name>Autodesk.Fbx</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.csproj">
-      <Project>{9C3EE58E-DBEF-EE42-5BBE-8206BBB7BD87}</Project>
+      <Project>{94B1F95B-3182-32F7-31AE-F03C094BB2F4}</Project>
       <Name>UnityEngine.UI</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.ShaderGraph.Editor.csproj">
-      <Project>{FFEB3C07-4658-82F8-1D9D-8CABF9723457}</Project>
+      <Project>{5CB3E3A1-7634-5D30-DAFA-289BB6DE0F7A}</Project>
       <Name>Unity.ShaderGraph.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Cinemachine.csproj">
-      <Project>{276AB2AC-0E1F-82F1-01A1-3CE02A7D26A4}</Project>
+      <Project>{2321C8A9-F2DA-DCFA-4C88-0EE47DB76F55}</Project>
       <Name>Cinemachine</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Analytics.DataPrivacy.csproj">
-      <Project>{14907108-672F-B456-DA57-1C780499B240}</Project>
+      <Project>{0C4FB6ED-E822-8281-0974-8779A260243E}</Project>
       <Name>Unity.Analytics.DataPrivacy</Name>
     </ProjectReference>
     <ProjectReference Include="com.unity.cinemachine.editor.csproj">
-      <Project>{9B85ED25-6F12-4C61-6CBE-E2916D1855C7}</Project>
+      <Project>{CCDEF9BE-21A6-31FF-0C73-CAB5BE0A6149}</Project>
       <Name>com.unity.cinemachine.editor</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.Purchasing.Codeless.csproj">
-      <Project>{2DA5FD7A-4A95-0781-66EC-ADE01CD74A83}</Project>
+      <Project>{887A51E4-05E7-6384-40BC-650C763AB1EE}</Project>
       <Name>UnityEngine.Purchasing.Codeless</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Formats.Fbx.Runtime.csproj">
-      <Project>{AEA6C116-07C6-1B59-DA56-389900D71B8F}</Project>
+      <Project>{F2601937-FD5F-A696-D18E-CB21226E8BE8}</Project>
       <Name>Unity.Formats.Fbx.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Formats.Alembic.Runtime.csproj">
-      <Project>{ACBA48A0-69E3-41D1-A1A8-D7C2245D9A08}</Project>
+      <Project>{97C0EB04-32B5-BE9F-6FE0-B81B24DAF3B0}</Project>
       <Name>Unity.Formats.Alembic.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.RenderPipeline.Universal.ShaderLibrary.csproj">
-      <Project>{EB95FDB8-26DB-5223-2857-F95E27F07C51}</Project>
+      <Project>{167AE27D-1309-9F5A-DE9A-7193B586F227}</Project>
       <Name>Unity.RenderPipeline.Universal.ShaderLibrary</Name>
     </ProjectReference>
+    <ProjectReference Include="Ultraleap.Tracking.Hands.Editor.csproj">
+      <Project>{8BECEAE7-EA77-7579-8B88-B1812F13731B}</Project>
+      <Name>Ultraleap.Tracking.Hands.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Ultraleap.Tracking.Core.Editor.csproj">
+      <Project>{9D220C02-8973-800B-7EC6-452F2C00543F}</Project>
+      <Name>Ultraleap.Tracking.Core.Editor</Name>
+    </ProjectReference>
     <ProjectReference Include="Unity.Mathematics.Editor.csproj">
-      <Project>{EBF085A3-2190-D3EE-33F9-92DBFC20DC79}</Project>
+      <Project>{AB36A2E8-771B-D0DD-F906-C78A17600CA9}</Project>
       <Name>Unity.Mathematics.Editor</Name>
     </ProjectReference>
+    <ProjectReference Include="Ultraleap.Tracking.InteractionEngine.csproj">
+      <Project>{D172398F-7CCC-215B-1277-B9CCAE91B381}</Project>
+      <Name>Ultraleap.Tracking.InteractionEngine</Name>
+    </ProjectReference>
     <ProjectReference Include="PoseEditor.csproj">
-      <Project>{61BDBA38-F3BD-8926-0A03-EE24B0E9F5DB}</Project>
+      <Project>{7EF668E6-37AD-32A0-2DC8-836F1CA71C08}</Project>
       <Name>PoseEditor</Name>
     </ProjectReference>
+    <ProjectReference Include="Ultraleap.Tracking.Core.csproj">
+      <Project>{AA9C73D3-294C-EC2B-9218-536F51A13B30}</Project>
+      <Name>Ultraleap.Tracking.Core</Name>
+    </ProjectReference>
     <ProjectReference Include="Unity.Animation.Rigging.Editor.csproj">
-      <Project>{4CF76320-53A8-E0CB-6291-F22E90C20B43}</Project>
+      <Project>{D10D23F2-D5AD-198A-187C-A0EC065F89E9}</Project>
       <Name>Unity.Animation.Rigging.Editor</Name>
     </ProjectReference>
+    <ProjectReference Include="LeapMotion.LeapCSharp.csproj">
+      <Project>{F9987DFA-7E6F-7141-7BD4-3AA8E7EB5B23}</Project>
+      <Name>LeapMotion.LeapCSharp</Name>
+    </ProjectReference>
     <ProjectReference Include="Unity.Recorder.csproj">
-      <Project>{376D956B-B109-3CBA-1ABF-DEC2FE8550C4}</Project>
+      <Project>{16B3313C-34F6-B9CF-4B79-3974EF842513}</Project>
       <Name>Unity.Recorder</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.VisualScripting.Flow.Editor.csproj">
-      <Project>{0194A5F8-3943-4167-1D31-1454988696C8}</Project>
+      <Project>{F21F6922-D99B-83E1-3E70-69400A92F7CA}</Project>
       <Name>Unity.VisualScripting.Flow.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.2D.Tilemap.Editor.csproj">
-      <Project>{FCDCA256-7E14-7257-3DA5-9ED761D4E4AE}</Project>
+      <Project>{4F1F6948-7889-4F45-8006-68D5FB791CC5}</Project>
       <Name>Unity.2D.Tilemap.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Recorder.Base.csproj">
-      <Project>{ABDD5422-A804-4FC1-C8D9-FB74961697BE}</Project>
+      <Project>{EFFC75C1-6667-529B-C988-1A45EC1A3F5F}</Project>
       <Name>Unity.Recorder.Base</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.RenderPipelines.Universal.Runtime.csproj">
-      <Project>{CF0CAF0E-0041-7017-ACC7-AC2D69B0C62E}</Project>
+      <Project>{853E6F3B-8DFB-B080-D21C-91EE3BFE63E2}</Project>
       <Name>Unity.RenderPipelines.Universal.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="PPv2URPConverters.csproj">
-      <Project>{A400DBAE-8608-072D-4C92-A5D719F46C5C}</Project>
+      <Project>{AA1391DE-F137-8D60-0359-B5D884A6ABF3}</Project>
       <Name>PPv2URPConverters</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.VisualStudio.Editor.csproj">
-      <Project>{071DFD83-4B2C-71C7-EFD4-E4DAB75C8368}</Project>
+      <Project>{1C2AA326-72C8-1B8C-C2D0-A86D9ABFEC40}</Project>
       <Name>Unity.VisualStudio.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Autodesk.Fbx.Editor.csproj">
-      <Project>{7638FBD2-EED3-3D70-3137-647420A6E6A0}</Project>
+      <Project>{319FE44A-6647-7A9F-4969-F8451F3A21BD}</Project>
       <Name>Autodesk.Fbx.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Timeline.csproj">
-      <Project>{C4836D47-B530-F3A8-9405-3D69404E77BB}</Project>
+      <Project>{5C5640FD-67AE-2D99-214C-A687F8C8A2B2}</Project>
       <Name>Unity.Timeline</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.VisualScripting.Core.Editor.csproj">
-      <Project>{DAB6FEC5-BB20-159D-28F5-DF9CA0C48DF2}</Project>
+      <Project>{EDC92A87-91CE-16A0-D791-473EA2676A37}</Project>
       <Name>Unity.VisualScripting.Core.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.TextMeshPro.csproj">
-      <Project>{A50BFE5F-0396-C007-8A2E-7B3BBEFE63D9}</Project>
+      <Project>{00E31678-D50E-B84C-9414-8148B22B45D2}</Project>
       <Name>Unity.TextMeshPro</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Burst.Editor.csproj">
-      <Project>{D1303216-7C76-5939-B29F-777D8E809DED}</Project>
+      <Project>{79F77EFC-1EE0-436A-C7D0-FDB5C0ADCAED}</Project>
       <Name>Unity.Burst.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Services.Analytics.csproj">
-      <Project>{EB7569C8-0A08-3164-EB7B-65287309F95B}</Project>
+      <Project>{92011E08-7E86-430F-D9A0-09F6943EFA52}</Project>
       <Name>Unity.Services.Analytics</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.2D.Sprite.Editor.csproj">
-      <Project>{E1AE79ED-2156-24E4-67CD-66E78E14E462}</Project>
+      <Project>{17D62E8B-6087-01F8-8FA8-65157444F20D}</Project>
       <Name>Unity.2D.Sprite.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.RenderPipelines.Core.Runtime.csproj">
-      <Project>{91227B17-8C14-0909-C9EA-06EF7D51657B}</Project>
+      <Project>{4A66833D-1038-63C5-7BCC-E34F9AB237AC}</Project>
       <Name>Unity.RenderPipelines.Core.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Services.Analytics.Editor.csproj">
-      <Project>{1A7D7C5D-69E7-CB0C-002A-4B40A558B8D6}</Project>
+      <Project>{9909C4EA-6941-91CF-0C63-2C58F926A5BF}</Project>
       <Name>Unity.Services.Analytics.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Postprocessing.Editor.csproj">
-      <Project>{6D3DBAC8-E5EB-0966-F9BF-5E165060F7B1}</Project>
+      <Project>{22C04318-C574-D602-18AA-BED4E402983E}</Project>
       <Name>Unity.Postprocessing.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Mediation.csproj">
-      <Project>{2DD1917C-E459-A78D-3CFE-E43DB0646CAA}</Project>
+      <Project>{A723BA7F-EAEF-A0CF-B940-63FB57CFF117}</Project>
       <Name>Unity.Mediation</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.PlasticSCM.Editor.csproj">
-      <Project>{7399F7EC-7E06-BA3B-10E2-3BB15625636F}</Project>
+      <Project>{FF078F80-572A-44D4-AC7B-180BE8D7BABB}</Project>
       <Name>Unity.PlasticSCM.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.VisualScripting.Flow.csproj">
-      <Project>{DF4DFF8D-A487-B612-4B36-676A3B13FF88}</Project>
+      <Project>{77CE56B8-24FF-C418-0428-B82AD1943F02}</Project>
       <Name>Unity.VisualScripting.Flow</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Services.Core.csproj">
-      <Project>{594F0301-54B9-AF43-3358-C95DC436CF30}</Project>
+      <Project>{2A43EA98-53FF-0FBB-B9E7-E6681AC7465D}</Project>
       <Name>Unity.Services.Core</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.VisualScripting.Core.csproj">
-      <Project>{653B6B0B-09B2-CEA8-255D-3AABFB1771C6}</Project>
+      <Project>{8F030882-0F5C-3B68-D4DE-7006B3257B86}</Project>
       <Name>Unity.VisualScripting.Core</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Animation.Rigging.csproj">
-      <Project>{CB30E9A7-358C-91B6-62A7-E34C4140F873}</Project>
+      <Project>{47D2D4AE-A9E9-A64E-D594-B9ECB129146B}</Project>
       <Name>Unity.Animation.Rigging</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Mathematics.csproj">
-      <Project>{476E742F-A18E-FF37-7344-17BDE09AD07F}</Project>
+      <Project>{92C816DB-85DC-5082-6735-77214E0BB7F5}</Project>
       <Name>Unity.Mathematics</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Services.Core.Analytics.csproj">
-      <Project>{3DF4BCFB-E2EE-A5DA-E1B3-296325F2FDD4}</Project>
+      <Project>{185EE1DF-DF03-8683-F8CC-FE95DCECCD6A}</Project>
       <Name>Unity.Services.Core.Analytics</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Burst.csproj">
-      <Project>{841B34ED-DD9F-C0AB-EFD7-8DB4F01BD9BE}</Project>
+      <Project>{58C34CEC-CCA2-76FF-1D81-6821A06FA91A}</Project>
       <Name>Unity.Burst</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Postprocessing.Runtime.csproj">
-      <Project>{BC61ABBB-6E31-05BE-C687-659F16C2673C}</Project>
+      <Project>{48F1CCCA-1CB4-A7C0-5A6B-2BFA6C38223D}</Project>
       <Name>Unity.Postprocessing.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.RenderPipelines.Universal.Editor.csproj">
-      <Project>{E611F0A5-8A29-0B61-6AA2-C11C431DF39B}</Project>
+      <Project>{27EF6DA7-5373-7A53-FB11-8DEA16111EB5}</Project>
       <Name>Unity.RenderPipelines.Universal.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.Purchasing.SecurityCore.csproj">
-      <Project>{9DFB52E2-0CE5-20BD-252D-0EE57A0B9E62}</Project>
+      <Project>{87E408E2-3262-1A4E-AB3C-62B71214DC09}</Project>
       <Name>UnityEngine.Purchasing.SecurityCore</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.XR.LegacyInputHelpers.csproj">
-      <Project>{82651227-EDFE-DA17-A41D-875A9D003C3E}</Project>
+      <Project>{D723355C-8F9C-8C57-906B-8A6A773119C6}</Project>
       <Name>UnityEngine.XR.LegacyInputHelpers</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.VisualScripting.Shared.Editor.csproj">
-      <Project>{44B92DD5-9A27-F0AF-5AFE-D40934D3F96F}</Project>
+      <Project>{A9B773A7-A86C-5033-393A-64B6C2B9068E}</Project>
       <Name>Unity.VisualScripting.Shared.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Services.Core.Environments.csproj">
-      <Project>{21B40697-8AAF-4930-F8CB-B022AEA8DACB}</Project>
+      <Project>{8FCD3A98-1924-18DD-F66E-88A8C4E2F1C5}</Project>
       <Name>Unity.Services.Core.Environments</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Timeline.Editor.csproj">
-      <Project>{F94D095A-F1D0-1D87-0473-FED89C56EC34}</Project>
+      <Project>{01FCB72E-3CE5-C2ED-40C7-38798B982614}</Project>
       <Name>Unity.Timeline.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.Purchasing.Stores.csproj">
-      <Project>{9A306B65-2D55-A85F-F8BE-12A265D14ECF}</Project>
+      <Project>{A72191D1-B8FC-3E71-8705-7BC257FDC513}</Project>
       <Name>UnityEngine.Purchasing.Stores</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.XR.LegacyInputHelpers.csproj">
-      <Project>{2E8CC4D9-DC58-DFD7-9732-95EFE4874CAA}</Project>
+      <Project>{B34942E0-C96F-A3FF-0365-C74444FF8A69}</Project>
       <Name>UnityEditor.XR.LegacyInputHelpers</Name>
     </ProjectReference>
     <ProjectReference Include="soupday.cc3_unity_tools.editor.csproj">
-      <Project>{E67178E1-591A-FAFF-9F6B-4DC1C26D6E64}</Project>
+      <Project>{331D91D7-06B3-D635-B776-F015A5F92573}</Project>
       <Name>soupday.cc3_unity_tools.editor</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.Purchasing.csproj">
-      <Project>{A326DC5C-60B9-4413-F41A-E4C01B731541}</Project>
+      <Project>{208B21CC-BE52-4AF2-BE0D-F9EC9C99502A}</Project>
       <Name>UnityEditor.Purchasing</Name>
     </ProjectReference>
+    <ProjectReference Include="Ultraleap.Tracking.InteractionEngine.Editor.csproj">
+      <Project>{AC07F958-C0B1-F030-F270-EECC9E419A74}</Project>
+      <Name>Ultraleap.Tracking.InteractionEngine.Editor</Name>
+    </ProjectReference>
     <ProjectReference Include="UnityEditor.SpatialTracking.csproj">
-      <Project>{698259C7-85DE-3ECA-600C-39F7EBAB1E27}</Project>
+      <Project>{E0954313-72AF-80D5-A075-83BEC9BB8C9F}</Project>
       <Name>UnityEditor.SpatialTracking</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Formats.Alembic.Editor.csproj">
-      <Project>{C318FCCC-235F-7693-ABA7-535C1B6785B9}</Project>
+      <Project>{84C28E83-38AA-417E-A783-B070B557AE4A}</Project>
       <Name>Unity.Formats.Alembic.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.csproj">
-      <Project>{B699B363-4355-F22D-8391-76F6ADBD1650}</Project>
+      <Project>{3CD4AD1F-568B-E7AC-C2EE-1571F4CC91F4}</Project>
       <Name>Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.RenderPipelines.Core.Editor.csproj">
-      <Project>{C1553A4A-716E-8FE1-830A-71747CF7281B}</Project>
+      <Project>{8802A36C-311D-5A7F-DDC0-5F8EC15F5AA5}</Project>
       <Name>Unity.RenderPipelines.Core.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.VisualScripting.State.csproj">
-      <Project>{8C96D9A1-9833-2039-3A4F-B9E7DB2FF276}</Project>
+      <Project>{C9C0FB7D-547D-75B1-82A8-A7D4274015B0}</Project>
       <Name>Unity.VisualScripting.State</Name>
-    </ProjectReference>
-    <ProjectReference Include="Ultraleap.Tracking.Hands.csproj">
-      <Project>{E9D1E643-BDF3-D121-077A-B30DFCF544E3}</Project>
-      <Name>Ultraleap.Tracking.Hands</Name>
-    </ProjectReference>
-    <ProjectReference Include="Ultraleap.Tracking.Core.csproj">
-      <Project>{81703739-2470-EBEF-A78D-3BE86B487F8C}</Project>
-      <Name>Ultraleap.Tracking.Core</Name>
-    </ProjectReference>
-    <ProjectReference Include="LeapMotion.LeapCSharp.csproj">
-      <Project>{1293F6DF-6EDA-EE4E-7C47-CB5AA7D89615}</Project>
-      <Name>LeapMotion.LeapCSharp</Name>
-    </ProjectReference>
-    <ProjectReference Include="Ultraleap.Tracking.Core.Editor.csproj">
-      <Project>{4DA4AD28-BEA4-FDFC-FD21-344F65B2B40D}</Project>
-      <Name>Ultraleap.Tracking.Core.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="Ultraleap.Tracking.Hands.Editor.csproj">
-      <Project>{DB7CE4C0-54B0-7A00-A2F6-EB601748ADF4}</Project>
-      <Name>Ultraleap.Tracking.Hands.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="Ultraleap.Tracking.InteractionEngine.csproj">
-      <Project>{F9D4AD75-F81F-FA42-F7B8-90C55F59015E}</Project>
-      <Name>Ultraleap.Tracking.InteractionEngine</Name>
-    </ProjectReference>
-    <ProjectReference Include="Ultraleap.Tracking.InteractionEngine.Editor.csproj">
-      <Project>{C071037A-0085-A031-55FC-62046D90BEF0}</Project>
-      <Name>Ultraleap.Tracking.InteractionEngine.Editor</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

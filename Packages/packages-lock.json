@@ -8,9 +8,9 @@
       "url": "https://packages.unity.com"
     },
     "com.soupday.cc3_unity_tools": {
-      "version": "file:C:/Work/Tech/Tools/cc_unity_tools_URP-1.6.0.URP12/cc_unity_tools_URP-1.6.0.URP12",
+      "version": "file:cc_unity_tools_URP-1.6.0.URP12",
       "depth": 0,
-      "source": "local",
+      "source": "embedded",
       "dependencies": {
         "com.unity.render-pipelines.universal": "12.0.0"
       }
