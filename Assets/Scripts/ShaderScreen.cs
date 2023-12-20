@@ -10,15 +10,15 @@ public class ShaderScreen : MonoBehaviour
 
     public void StartFadeOut()
     {
-        firstLogo.SetActive(startScreen);
-        transLogo.SetActive(!startScreen);
+        //firstLogo.SetActive(startScreen);
+        //transLogo.SetActive(!startScreen);
         GetComponent<Animator>().SetTrigger("FadeOutStarted");
     }
 
     public void StartFadeIn()
     {
-        firstLogo.SetActive(false);
-        transLogo.SetActive(true);
+        //firstLogo.SetActive(false);
+        //transLogo.SetActive(true);
         GetComponent<Animator>().SetTrigger("FadeInStarted");
     }
 }
